@@ -1,0 +1,45 @@
+.head__wrapper{
+	background-color: #303030;
+}
+.navbar{
+	width: 90%;
+	margin: auto;
+}
+.nav-link{
+	font-size: 23px;
+	margin: 0 20px 0 20px;
+	font-family: "Oswald";
+}
+.head_info{
+	background: url(../pictures/background/head.png);
+	width: 100%;
+	height: 46vw;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding-top: 15.625vw;
+}
+.head_info__header{
+	font-size: 7vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.head_info__text{
+	font-size: 1.8vw;
+	width: 46.387vw;
+	margin-bottom: 3.418vw;
+}
+.head__button{
+	font-size: 1.4vw;
+	background-color: #e8631c;
+	border-radius: 5px;
+	text-decoration: none;
+	color: white;
+	padding: 0.488vw 2.930vw 0.488vw 2.930vw;
+	transition: 0.3s;
+	font-weight: 700;
+}
+.head__button:hover{
+	text-decoration: none;
+	color: black;
+	background-color: white;
+}

@@ -1,0 +1,32 @@
+footer{
+	background-color: #303030;
+	padding: 4.883vw 0 4.883vw 0;
+}
+.foteer__item{
+	display: flex;
+	flex-direction: column;
+}
+.footer__link{
+	color: white;
+	margin-bottom: 0.488vw;
+}
+.footer__link:hover{
+	color: #e8631c;
+	text-decoration: none;
+}
+.footer__text{
+	width: 25vw;
+	margin-bottom: 1.465vw;
+}
+.footer__header{
+	font-size: 1.7vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.footer__text, .footer__link{
+	font-size: 1.1vw;
+}
+.footer__png{
+	margin-right: 0.732vw;
+	width: 2.44vw;
+}

@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald:wght@500&display=swap');
+
+.wrapper{
+	width: 90%;
+	margin: auto;
+}
+
+*{
+	color: white;
+	font-family: "Montserrat";
+}
+
+@media (max-width: 992px) {
+	.wrapper{
+		width: 85%;
+	}
+	.head__png{
+		width: 150px;
+	}
+	.email__block{
+		width: 35%;
+	}
+}
+
+@media (max-width: 576px){
+	.nav-link{
+		font-size: 3vw;
+		margin: 0;
+		text-align: center;
+	}
+	.head__png{
+		width: 100px;
+	}
+	.head_info__text{
+		margin-bottom: 2vw;
+	}
+	.dance__item{
+		margin-bottom: 50px;
+	}
+	.dance{
+		padding: 4.888vw 0 2.444vw 0;
+	}
+	.dance__header{
+		font-size: 7vw;
+	}
+	.dance__subheader{
+		font-size: 4vw;
+	}
+	.dance__text{
+		font-size: 2.7vw;
+		line-height: 2.8vw;
+	}
+	.dance__subtext{
+		font-size: 3vw;
+		line-height: 3.1vw;
+	}
+
+	.pricing__item{
+		margin-bottom: 50px;
+	}
+	.pricing__text{
+		font-size: 2.7vw;
+		line-height: 2.8vw;
+		margin-bottom: 30px;
+	}
+	.pricing__header{
+		font-size: 7vw;
+	}
+	.pricing__subheader{
+		font-size: 5vw;
+	}
+	.pricing__subtext{
+		font-size: 3vw;
+		line-height: 3.1vw;
+	}
+	.pricing__bill{
+		font-size: 3vw;
+	}
+
+
+	.amazing__item{
+		height: 100vw;
+	}
+	.amazing__header{
+		font-size: 7vw;
+	}
+	.amazing__text{
+		font-size: 3vw;
+		line-height: 3.1vw;
+	}
+	.amazing__button{
+		font-size: 3vw;
+		padding: 1vw 5vw 1vw 5vw;
+	}
+	.amazing__block_text{
+		padding-top: 53%;
+	}
+
+
+	.statistic__header{
+		font-size: 7vw;
+	}
+	.statistic__text{
+		font-size: 2.7vw;
+		line-height: 3vw;
+	}
+	.statistic__number{
+		font-size: 5vw;
+		margin-bottom: -0.1vw;
+	}
+	.statistic__subtext{
+		font-size: 3vw;
+	}
+
+	.teacher__text{
+		font-size: 3.2vw;
+		line-height: 3.3vw;
+	}
+	.teacher__name{
+		font-size: 5vw;
+	}
+
+
+	.email__header{
+		font-size: 7vw;
+	}
+	.email__text{
+		font-size: 2.5vw;
+		line-height: 2.6vw;
+	}
+	.email__string, .email__button{
+		font-size: 1.5vw;
+	}	
+	.email__block{
+		width: 37%;
+	}
+}

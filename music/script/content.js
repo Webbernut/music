@@ -1,0 +1,1 @@
+document.querySelector('.amazing__item').style.height = document.querySelector('.amazing__png').style.height;

@@ -1,0 +1,228 @@
+.dance{
+	background-color: #e8631c;
+	padding: 4.883vw 0 4.883vw 0;
+}
+.dance__item{
+	background-color: #303030;
+	width: 85%;
+	margin: auto;
+}
+.dance__block_text{
+	padding: 1.465vw 0 1.465vw 0;
+}
+.dance__png{
+	width: 100%;
+}
+.dance__header{
+	font-size: 5vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.dance__text{
+	font-size: 1.9vw;
+	line-height: 2vw;
+	margin-bottom: 3.662vw;
+}
+.dance__subheader{
+	font-size: 2.1vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.dance__subtext{
+	font-size: 1.6vw;
+	line-height: 1.7vw;
+}
+
+
+
+.pricing{
+	background-color: #303030;
+	padding: 4.883vw 0 4.883vw 0;
+}
+.pricing__item{
+	background-color: #e8631c;
+	width: 85%;
+	margin: auto;
+	padding: 1.465vw;
+	border-radius: 0.488vw;
+	transition: .3s;
+	border: 3px solid #303030;
+}
+.pricing__item:hover{
+	border: 3px solid white;
+}
+.pricing__png{
+	width: 35%;
+	margin-bottom: 2.441vw;
+	margin-top: 2.441vw;
+}
+.pricing__wrapper{
+	text-align: center;
+}
+.pricing__header{
+	font-size: 5vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.pricing__text{
+	font-size: 1.9vw;
+	line-height: 2vw;
+	margin-bottom: 3.662vw;
+}
+.pricing__subheader{
+	font-size: 2.1vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.pricing__subtext{
+	font-size: 1.6vw;
+	line-height: 1.7vw;
+	margin-bottom: 2.441vw;
+}
+.pricing__bill{
+	background-color: #303030;
+	width: 100%;
+	border-radius: 0.488vw;
+	text-align: center;
+	font-size: 1.7vw;
+	padding-top: 0.488vw;
+	padding-bottom: 0.488vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+
+
+.amazing{
+	background-color: #e8631c;
+	overflow: hidden;
+}
+.amazing__wrapper{
+	height: 66.748vw;
+	width: 100%;
+}
+.amazing__header{
+	font-size: 4vw;
+	margin-bottom: 1.221vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.amazing__text{
+	font-size: 1.5vw;
+	line-height: 1.5vw;
+	margin-bottom: 3vw;
+}
+.amazing__png{
+	width: 100%;
+}
+.col-sm-6{
+	padding-right: 0;
+	padding-left: 0;
+}
+.amazing__button{
+	font-size: 1.5vw;
+	color: white;
+	background-color: #303030;
+	padding: 0.488vw 3.418vw 0.488vw 3.418vw;
+	border-radius: 0.244vw;
+	transition: .3s;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.amazing__button:hover{
+	text-decoration: none;
+	background-color: white;
+	color: #303030;
+}
+.amazing__block_text{
+	margin: auto;
+	width: 70%;
+	padding-top: 23vw;
+}
+
+
+.statistic{
+	background-color: #303030;
+	padding: 9.766vw 0 12.207vw 0;
+}
+.statistic__header{
+	font-size: 4vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.statistic__text{
+	font-size: 1.5vw;
+	line-height: 1.6vw;
+	margin-bottom: 9.766vw;
+}
+.statistic__number{
+	font-size: 4vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.statistic__subtext{
+	font-size: 2.5vw;
+}
+
+
+.teacher{
+	background: url(../pictures/background/teacher.png);
+	width: 100%;
+	height: 65vw;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding-top: 25.391vw;
+}
+.teacher__text{
+	font-size: 2.7vw;
+	line-height: 2.8vw;
+	margin-bottom: 2.44vw;
+}
+.teacher__name{
+	font-size: 4vw;
+	font-weight: 500;
+	font-family: "Oswald";
+}
+
+
+.email{
+	background-color: #e8631c;
+	padding: 4.883vw 0 7.324vw 0;
+}
+.email__block{
+	margin: auto;
+	width: 34%;
+}
+.email__button{
+	background-color: #303030;
+	padding: 0.488vw 1.709vw 0.732vw 1.709vw;
+	color: white;
+	transition: .3s;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	margin-left: -0.488vw;
+}
+.email__button:hover{
+	color: #303030;
+	background-color: white;
+	text-decoration: none;
+}
+.email__header{
+	font-size: 4vw;
+}
+.email__text{
+	font-size: 1.5vw;
+	line-height: 1.6vw;
+	margin-bottom: 2.441vw;
+}
+.email__header, .email__button{
+	font-weight: 500;
+	font-family: "Oswald";
+}
+.email__string{
+	padding: 0.488vw 0 0.488vw 0.977vw;
+	color: #303030;
+	width: 25vw;
+}
+.email__string, .email__button{
+	font-size: 1vw;
+}
